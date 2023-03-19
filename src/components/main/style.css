@@ -1,0 +1,63 @@
+.foto{
+    width: 150px;
+    height: 150px;
+    animation: animar 1s infinite alternate;
+    border-radius: 70px;
+    transition: .2s all ease ;
+}
+.foto:hover{
+    cursor: pointer;
+}
+.container2{
+    animation: left-move 2s ;
+}
+.box2{
+    animation: bottomy-move 2s;
+}
+.box1{
+    animation: top-move 2s;
+}
+.texto{
+    animation: bottom-move 2s;
+}
+@keyframes animar {
+    from{
+        transform: translateY(9px);
+    }
+    to{
+        transform: translateY(-9px);
+    }
+}
+
+@keyframes left-move {
+    from{
+        transform: translateX(-400px);
+    }
+    to{
+        transform: translateX(0px);
+    }
+}
+@keyframes right-move {
+    from{
+        transform: translateX(300px);
+    }
+    to{
+        transform: translateX(0px);
+    }
+}
+@keyframes top-move {
+    from{
+        transform: translateY(300px);
+    }
+    to{
+        transform: translateY(0px);
+    }
+}
+@keyframes bottom-move {
+    from{
+        transform: translateY(-300px);
+    }
+    to{
+        transform: translateY(0px);
+    }
+}

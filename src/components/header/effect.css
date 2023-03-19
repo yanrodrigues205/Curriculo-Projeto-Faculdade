@@ -1,0 +1,20 @@
+.left-move{
+    animation: left-move 2s;
+}
+.right-move{
+    animation: right-move 2s;
+}
+@keyframes left-move {
+    from{
+        transition:  translateX(-300px);
+    }to{
+        transition: translateX(0px);
+    }
+}
+@keyframes right-move {
+    from{
+        transition:  translateX(-300px);
+    }to{
+        transition: translateX(0px);
+    }
+}
