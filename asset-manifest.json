@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Curriculo-Projeto-Faculdade/static/css/main.b78e94f5.css",
+    "main.js": "/Curriculo-Projeto-Faculdade/static/js/main.98c9adcf.js",
+    "static/media/yan_png.png": "/Curriculo-Projeto-Faculdade/static/media/yan_png.936730670b1a072957fe.png",
+    "static/media/Curriculo - Yan.pdf": "/Curriculo-Projeto-Faculdade/static/media/Curriculo - Yan.1a4058e3600e6147f4ac.pdf",
+    "index.html": "/Curriculo-Projeto-Faculdade/index.html",
+    "main.b78e94f5.css.map": "/Curriculo-Projeto-Faculdade/static/css/main.b78e94f5.css.map",
+    "main.98c9adcf.js.map": "/Curriculo-Projeto-Faculdade/static/js/main.98c9adcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b78e94f5.css",
+    "static/js/main.98c9adcf.js"
+  ]
+}
