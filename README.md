@@ -11,3 +11,6 @@ Este projeto foi um layout de um currículo repassado pelo professor, o objetivo
 
 
 ### Layout Final - Conclusão:
+Responsividade Inclusa!
+![image](https://user-images.githubusercontent.com/92941649/226732362-a2d981cc-f6ad-4a92-9e0c-665b9046b5f9.png)
+![image](https://user-images.githubusercontent.com/92941649/226732501-25faac24-9d1b-4dec-8161-278bd799c6d3.png)
