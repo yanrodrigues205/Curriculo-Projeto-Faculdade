@@ -2,7 +2,7 @@
 
 ## Tools - Ferramentas
 
- <img alt='Yan Framework React' aling='center' width='40' heigth='40' src='https://skillicons.dev/icons?i=nodejs,react,typescript,javascript,html,css' class='language     React'>
+ <img alt='Yan languages' aling='center'src='https://skillicons.dev/icons?i=nodejs,react,typescript,javascript,html,css' class='languages'>
  
 
 Este projeto foi um layout de um currículo repassado pelo professor, o objetivo era replica-lo utilizando apenas HTML, CSS e Javascript. Entretanto, como já estou em familiarizado com os mesmos, então optei pela contrução com React.JS e Typescript( Acabei implementando algumas coisa :) ).
