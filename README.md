@@ -1,3 +1,5 @@
+#  🤝 Acesse já a página do projeto 👉 https://yanrodrigues205.github.io/Curriculo-Projeto-Faculdade
+
 Este projeto foi um layout de um currículo repassado pelo professor, o objetivo era replica-lo utilizando apenas HTML, CSS e Javascript. Entretanto, como já estou em familiarizado com os mesmos, então optei pela contrução com React.JS e Typescript( Acabei implementando algumas coisa :) ).
 
 
