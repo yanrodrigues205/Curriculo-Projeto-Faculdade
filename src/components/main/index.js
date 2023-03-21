@@ -10,15 +10,15 @@ const MainBox = styled.div`
     background-color: #c8c8c8;
     width: 100%
     display: flexbox;
-    height: 390px;
+    height: 42add0px;
     margin-left: 10%;
     margin-right: 10%
 `;
 const SubMainBox = styled.div`
     background-color: #e9e9e9;
     width: 100%
-    display: flexbox;
-    height: 200px;
+    display: flex;
+    height: 100vh;
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
