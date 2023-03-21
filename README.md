@@ -1,5 +1,8 @@
 #  🤝 Acesse já a página do projeto 👉 https://yanrodrigues205.github.io/Curriculo-Projeto-Faculdade
 
+## Tools - Ferramentas
+ <img alt='Yan Framework React' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' class='language     React'>
+
 Este projeto foi um layout de um currículo repassado pelo professor, o objetivo era replica-lo utilizando apenas HTML, CSS e Javascript. Entretanto, como já estou em familiarizado com os mesmos, então optei pela contrução com React.JS e Typescript( Acabei implementando algumas coisa :) ).
 
 
