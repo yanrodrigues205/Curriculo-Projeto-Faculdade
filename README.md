@@ -1,46 +1,19 @@
-# Getting Started with Create React App
+#  🤝 Acesse já a página do projeto - Access the project page now 👉 https://yanrodrigues205.github.io/Curriculo-Projeto-Faculdade
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tools - Ferramentas
 
-## Available Scripts
+ <img alt='Yan languages' aling='center' src='https://skillicons.dev/icons?i=nodejs,react,typescript,javascript,html,css' class='languages'>
+ 
 
-In the project directory, you can run:
+Este projeto foi um layout de um currículo repassado pelo professor, o objetivo era replica-lo utilizando apenas HTML, CSS e Javascript. Entretanto, como já estou em familiarizado com os mesmos, então optei pela contrução com React.JS e Typescript( Acabei implementando algumas coisa :) ).
 
-### `npm start`
+This project was a layout of a curriculum passed by the teacher, the objective was to replicate it using only HTML, CSS and Javascript. However, as I'm already familiar with them, I opted for building with React.JS and Typescript (I ended up implementing a few things :) ).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Ideia de Projeto / Inicial - Project / Initial Idea :
+![image](https://user-images.githubusercontent.com/92941649/226728901-c3335fa2-4f81-4b4c-a23c-ccfe6f134643.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Layout Final / Conclusão - Final Layout / Conclusion:
+![image](https://user-images.githubusercontent.com/92941649/226732362-a2d981cc-f6ad-4a92-9e0c-665b9046b5f9.png)
+![image](https://user-images.githubusercontent.com/92941649/226732501-25faac24-9d1b-4dec-8161-278bd799c6d3.png)
