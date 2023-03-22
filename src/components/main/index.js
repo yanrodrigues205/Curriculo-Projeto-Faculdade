@@ -10,15 +10,15 @@ const MainBox = styled.div`
     background-color: #c8c8c8;
     width: 100%
     display: flexbox;
-    height: 390px;
+    height: calc(50vh);
     margin-left: 10%;
     margin-right: 10%
 `;
 const SubMainBox = styled.div`
+    position:relative;
     background-color: #e9e9e9;
-    width: 100%;
-    display: flexbox;
-    height: 100%;
+    display: block;
+    height: calc(30vh);
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
@@ -68,13 +68,14 @@ export default function(){
         </MainBox>
 
         <SubMainBox className='box2'>
-            <div className='texto'>
+        <div className='texto'>
             <h2>Formação Profissional:</h2>
             <h4>Tecnico em Analise e Desenvolvimento de Sistemas - Dr Prof Antonio E. Toledo</h4>
             <h4>Cursando  Tecnologo em Analise e Desenvolvimento de Sistemas - FATEC</h4> 
             <h2>Ocupação Profissional: </h2>
             <h4>Estagiario em Programacao Back-End PhP</h4>
             </div>
+
         </SubMainBox>
         </>
     )

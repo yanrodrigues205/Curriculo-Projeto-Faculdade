@@ -2,7 +2,7 @@ import React from 'react';
 import styled from "styled-components";
 
 const NavFooter = styled.div`
-    position: absolute;
+    position: fixed;
     bottom: 0;
     background-color: #ffea60;
     display: flexbox;
