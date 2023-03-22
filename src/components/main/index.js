@@ -16,7 +16,7 @@ const MainBox = styled.div`
 `;
 const SubMainBox = styled.div`
     background-color: #e9e9e9;
-    width: 100%
+    width: 100%;
     display: flexbox;
     height: 200px;
     margin-left: 10%;
